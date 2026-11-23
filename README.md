@@ -38,7 +38,7 @@ More tools coming soon.
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/devkit.git
+git clone https://github.com/ttvmagma/devkit.git
 cd devkit
 npm install
 npm run dev
